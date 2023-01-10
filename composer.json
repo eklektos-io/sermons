@@ -1,5 +1,6 @@
 {
     "name": "eklektos-io/sermons",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Eklektos\\Sermons\\": "src"
