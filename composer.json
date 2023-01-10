@@ -1,0 +1,19 @@
+{
+    "name": "eklektos/sermons",
+    "autoload": {
+        "psr-4": {
+            "Eklektos\\Sermons\\": "src"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Sermons",
+            "description": "Sermons addon"
+        },
+        "laravel": {
+            "providers": [
+                "Eklektos\\Sermons\\ServiceProvider"
+            ]
+        }
+    }
+}
