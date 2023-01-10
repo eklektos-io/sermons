@@ -1,5 +1,5 @@
 {
-    "name": "eklektos/sermons",
+    "name": "eklektos-io/sermons",
     "autoload": {
         "psr-4": {
             "Eklektos\\Sermons\\": "src"

@@ -5,5 +5,5 @@
 ## How to Install
 
 ``` bash
-composer require eklektos/sermons
+composer require eklektos-io/sermons
 ```
